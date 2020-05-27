@@ -1,12 +1,6 @@
 import React from "react";
-import "../styles/main.css";
-import {
-  AppBar,
-  Drawer,
-  MenuItem,
-  Toolbar,
-  IconButton,
-} from "@material-ui/core";
+import "../css/main.css";
+import { AppBar, Toolbar, IconButton } from "@material-ui/core";
 import MenuIcon from "@material-ui/icons/Menu";
 
 const Header = () => {
